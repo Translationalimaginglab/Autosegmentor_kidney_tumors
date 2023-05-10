@@ -1,4 +1,4 @@
-## Download Latest Model (ATTENTION) 
+## Download Latest Model 
 
 You can download the latest model from this Google Drive link. Once downloaded, place the model file in the same directory as the other project files.
 
