@@ -1,6 +1,16 @@
+## Download Latest Model (ATTENTION) 
+
+You can download the latest model from this Google Drive link. Once downloaded, place the model file in the same directory as the other project files.
+
+```sh 
+https://drive.google.com/file/d/1Z3fB3aZSwSNSnIpX_6bYvew5nkGxENgt/view?usp=sharing
+```
+
+
 # Kidney and Renal Mass Segmentation
 
 This project provides Python scripts for automatic kidney and renal mass segmentation in medical images, specifically CT and MRI scans. It includes a command-line interface (CLI) and a graphical user interface (GUI) for a more user-friendly experience.
+
 
 ## Dependencies
 
@@ -31,3 +41,24 @@ For example:
 
 ```bash
 python segment_kidneys_and_masses.py --precontrast-path "path/to/precontrast" --20second-path "path/to/arterial" --70second-path "path/to/venous" --3min-path "path/to/excretory" "path/to/output"
+```
+### Graphical User Interface (GUI)
+
+The GUI version can be run using the `AutoSegmentationGUI3DHF.py` script. The interface allows users to select the input directories for the precontrast, arterial, venous, and excretory images, as well as the output directory. Users can also choose the modality, pathology (if known), and a model file (for new models).
+
+After running the segmentation, the GUI allows users to browse the segmented images.
+
+To run the GUI, simply execute the following command:
+
+```sh
+python AutoSegmentationGUI3DHF.py
+```
+Acknowledgments
+This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation in clinical practice.
+
+Download Latest Model
+You can download the latest model from this Google Drive link. Once downloaded, place the model file in the same directory as the other project files.
+
+## Acknowledgments
+This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation in clinical practice.
+
