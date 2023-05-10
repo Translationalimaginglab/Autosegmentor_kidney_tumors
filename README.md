@@ -43,13 +43,13 @@ python segment_kidneys_and_masses.py --precontrast-path "path/to/precontrast" --
 
 Graphical User Interface (GUI)
 
-The GUI version can be run using the segmentation_gui.py script. The interface allows users to select the input directories for the precontrast, arterial, venous, and excretory images, as well as the output directory. Users can also choose the modality, pathology (if known), and a model file (for new models).
+The GUI version can be run using the AutoSegmentationGUI3DHF.py script. The interface allows users to select the input directories for the precontrast, arterial, venous, and excretory images, as well as the output directory. Users can also choose the modality, pathology (if known), and a model file (for new models).
 
 After running the segmentation, the GUI allows users to browse the segmented images.
 
 To run the GUI, simply execute the following command:
 
-python segmentation_gui.py
+python AutoSegmentationGUI3DHF.py
 
 
 Acknowledgments
