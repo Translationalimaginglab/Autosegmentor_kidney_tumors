@@ -62,3 +62,12 @@ You can download the latest model from this Google Drive link. Once downloaded, 
 ## Acknowledgments
 This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation in clinical practice.
 
+## References
+
+Please cite the following articles when using this project:
+1. Yazdian Anari, Pouria, et al. "Automatic segmentation of clear cell renal cell tumors, kidney, and cysts in patients with von Hippel-Lindau syndrome using U-net architecture on magnetic resonance images." arXiv preprint arXiv:2301.02538 (2023).
+
+2. Lay, Nathan, et al. "Deep learning‐based decision forest for hereditary clear cell renal cell carcinoma segmentation on MRI." Medical Physics (2023).
+
+other references are under final review. 
+
