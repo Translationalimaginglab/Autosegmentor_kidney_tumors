@@ -54,13 +54,11 @@ To run the GUI, simply execute the following command:
 python AutoSegmentationGUI3DHF.py
 ```
 Acknowledgments
-This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation in clinical practice.
+This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation.
 
-Download Latest Model
-You can download the latest model from this Google Drive link. Once downloaded, place the model file in the same directory as the other project files.
 
 ## Acknowledgments
-This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation in clinical practice.
+This project was developed based on the expertise provided by medical professionals and researchers in the field of radiology and medical image analysis. Their valuable input and guidance helped create a reliable and efficient tool for kidney and renal mass segmentation.
 
 ## References
 
