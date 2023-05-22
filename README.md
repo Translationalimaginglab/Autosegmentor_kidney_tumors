@@ -9,7 +9,9 @@ https://drive.google.com/file/d/1Z3fB3aZSwSNSnIpX_6bYvew5nkGxENgt/view?usp=shari
 
 # Kidney and Renal Mass Segmentation
 
-This project provides Python scripts for automatic kidney and renal mass segmentation in medical images, specifically CT and MRI scans. It includes a command-line interface (CLI) and a graphical user interface (GUI) for a more user-friendly experience.
+This project provides Python scripts for automatic kidney and renal mass segmentation in medical images, specifically CT and MRI scans. It includes a command-line interface (CLI) and a graphical user interface (GUI) for a more user-friendly experience. 
+
+V 1.1.5
 
 
 ## Dependencies
