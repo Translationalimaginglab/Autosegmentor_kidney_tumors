@@ -1,6 +1,6 @@
 /*
  * ----------------------------------------------------------------------------
- * Copyright (c) 2023, Pouria Yazdian, Nathan Lay, and AMPrj Lab Members
+ * Copyright (c) 2023,  Nathan Lay, Pouria Yazdian, and AMPrj Lab Members
  *
  * This code has been developed by Pouria Yazdian, Nathan Lay, and members
  * of the AMPrj Lab. All rights reserved. This code is intended for
